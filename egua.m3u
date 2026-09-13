@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1, SportTV 1
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44227.m3u8
+
+#EXTINF:-1, SportTV 2
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44228.m3u8
+
+#EXTINF:-1, SportTV 3
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44229.m3u8
+
+#EXTINF:-1, SportTV 4
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44230.m3u8
+
+#EXTINF:-1, SportTV 5
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/95199.m3u8
+
+#EXTINF:-1, SportTV 6
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44232.m3u8
+
+#EXTINF:-1, DAZN 1
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/53.m3u8
+
+#EXTINF:-1, DAZN 2
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/56.m3u8
+
+#EXTINF:-1, DAZN 3
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/59.m3u8
+
+#EXTINF:-1, DAZN 4
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/207.m3u8
+
+#EXTINF:-1, DAZN 5
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/209.m3u8
+
+#EXTINF:-1, DAZN 6
+https://rebel-pirate-tv.vercel.app/api/proxy?url=http://neosfpoo.top:8080/4571764082049390/c38ry7k9fsa9/24983
+
+#EXTINF:-1, BTV
+http://live.prsc.xyz/live/PCJSCARLN/nevesjos0911k12/44233.m3u8
+
